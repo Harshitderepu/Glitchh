@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Glitchh
+  annotations:
+    github.com/project-slug: Harshitderepu/Glitchh
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Harshit
